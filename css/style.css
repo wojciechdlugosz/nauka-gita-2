@@ -1,0 +1,18 @@
+section {
+  margin: 10px auto;
+  width: 500px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: normal;
+}
+
+p {
+  font-size: 18px;
+  line-height: 32px;
+}
